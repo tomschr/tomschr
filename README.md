@@ -1,9 +1,14 @@
 ### Hi there 👋 This is Tom
 
 [![Linkedin Badge](https://img.shields.io/badge/-tomschr-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tomschr/)](https://www.linkedin.com/in/tomschr/) [![Github Badge](https://img.shields.io/badge/-tomschr-grey?style=flat&logo=github&logoColor=white&link=https://github.com/tomschr/)](https://www.github.com/tomschr/)
-<p align='left'>
-Documentation, Python, XML, XSLT, XSL-FO, and lunch specialist.
-Contributor to @openSUSE, @SUSE, @python-semver, and others
+
+* 🤓 Linux and open/free source advocat
+* 📚 Documentation enthusiast
+* Python lover
+* 📸 Photography
+* XML, XSLT, XSL-FO 
+* 🥪 lunch and tea 🍵 specialist.
+* Contributor to @openSUSE, @SUSE, @python-semver, and others
 </p>
 
 ## Some of my Github Stats
