@@ -14,7 +14,18 @@ I'm a doc writer at SUSE, living in Germany.
 * Speak 🇬🇧 / 🇩🇪
 
 
-## 💡 Experiences
+## 💡 Technologies & Tools
+
+<!--
+![](https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Make-informational?style=for-the-badge&logo=cmake&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=for-the-badge&logo=gnu-bash&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=for-the-badge&logo=docker&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/LaTeX?style=for-the-badge&logo=latex&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/openSUSE?style=for-the-badge&logo=opensuse&logoColor=white&color=2bbc8a)
+-->
 
 * Linux <img src="linux.svg" alt="Linux" width="20"/>
 * openSUSE <img src="opensuse.svg" alt="openSUSE" width="20"/>
