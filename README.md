@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-tomschr-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tomschr/)](https://www.linkedin.com/in/tomschr/) [![Github Badge](https://img.shields.io/badge/-tomschr-grey?style=flat&logo=github&logoColor=white&link=https://github.com/tomschr/)](https://www.github.com/tomschr/)
 
-My name is Tom Schraitle and I'm a doc writer at SUSE, living in Germany.
+I'm a doc writer at SUSE, living in Germany.
 
 * 🤓 Linux and open/free source advocat
 * 📚 Documentation enthusiast
@@ -16,14 +16,14 @@ My name is Tom Schraitle and I'm a doc writer at SUSE, living in Germany.
 
 ## 💡 Experiences
 
-* Linux <img src="linux.svg" alt="Linux" width="25"/>
-* openSUSE <img src="opensuse.svg" alt="openSUSE" width="25"/>
-* Git <img src="git.svg" alt="Git" width="25"/>
-* Python <img src="python.svg" alt="Python" width="25"/>
-* LaTeX <img src="latex.svg" alt="LaTeX" width="25"/>
-* KDE <img src="kde.svg" alt="KDE" width="25"/>
-* XML, XSLT, XSL-FO <img src="w3c.svg" alt="W3C" width="25"/>
-* Currently learning JavaScript <img src="javascript.svg" alt="JavaScript" width="25"/>
+* Linux <img src="linux.svg" alt="Linux" width="20"/>
+* openSUSE <img src="opensuse.svg" alt="openSUSE" width="20"/>
+* Git <img src="git.svg" alt="Git" width="20"/>
+* Python <img src="python.svg" alt="Python" width="20"/>
+* LaTeX <img src="latex.svg" alt="LaTeX" width="20"/>
+* KDE <img src="kde.svg" alt="KDE" width="20"/>
+* XML, XSLT, XSL-FO <img src="w3c.svg" alt="W3C" width="20"/>
+* Currently learning JavaScript <img src="javascript.svg" alt="JavaScript" width="20"/>
 
 
 ## 📈 Some of my Github Stats
