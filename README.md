@@ -14,17 +14,19 @@ My name is Tom Schraitle and I'm a doc writer at SUSE, living in Germany.
 * Speak 🇬🇧 / 🇩🇪
 
 
-## Experiences
+## 💡 Experiences
 
 * Linux <img src="linux.svg" alt="Linux" width="25"/>
-* Git <img src="git.svg" alt="Git" width="25"/>
-* KDE <img src="kde.svg" alt="KDE" width="25"/>
-* LaTeX <img src="latex.svg" alt="LaTeX" width="25"/>
 * openSUSE <img src="opensuse.svg" alt="openSUSE" width="25"/>
+* Git <img src="git.svg" alt="Git" width="25"/>
+* Python <img src="python.svg" alt="Python" width="25"/>
+* LaTeX <img src="latex.svg" alt="LaTeX" width="25"/>
+* KDE <img src="kde.svg" alt="KDE" width="25"/>
+* XML, XSLT, XSL-FO <img src="w3c.svg" alt="W3C" width="25"/>
 * Currently learning JavaScript <img src="javascript.svg" alt="JavaScript" width="25"/>
 
 
-## Some of my Github Stats
+## 📈 Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=tomschr alt=tomschr /> </p>
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=tomschr&show_icons=true&include_all_commits=true)](https://github.com/tomschr/github-readme-stats)
