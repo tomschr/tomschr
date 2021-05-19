@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-tomschr-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tomschr/)](https://www.linkedin.com/in/tomschr/) [![Github Badge](https://img.shields.io/badge/-tomschr-grey?style=flat&logo=github&logoColor=white&link=https://github.com/tomschr/)](https://www.github.com/tomschr/)
 
-I'm a doc writer at SUSE, living in Germany.
+I'm a senior doc writer at SUSE, living in Germany.
 
 * 🤓 Linux and open/free source advocat
 * 📚 Documentation enthusiast
